@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @DhanushAdit
-- 👀 I’m interested in Electrical and Electronics field
-- Gonna be a Electrical Engineer on 2025
-- 🌱 I’m currently learning opencv, Embedded Systems, Robotics, PCB Design
-- 😀 I’m looking to collaborate on Embedded Systems
-- 📫 mail: lrdhanush6903@gmail.com
+- Electrical Engineering Graduate 2025
+- Ms in Computer Engineering @ Texas A&M University
+- @College Station
+- 🌱 I’m currently learning Digital Integrated Circuit design, Design Verification and Computer Architecture
+- 😀 I’m looking to collaborate on Physica Design and Verification
+- 📫 mail: dhanushuniapp@gmail.com
 
 <!---
 DhanushAdit/DhanushAdit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
